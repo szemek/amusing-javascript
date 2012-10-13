@@ -7,7 +7,7 @@ Rozpakuj archiwum zip i otwórz plik `game_final.js` w swoim ulubionym edytorze,
 
 
 Przed Tobą małe wyzwanie!  
-Jest ono drobną modyfikacją kodu Kasi Drzyzgi, który znajduje się tu: https://github.com/kaaes/wm-workshop
+Jest ono drobną modyfikacją kodu, który znajduje się tu: https://github.com/kaaes/simple-dom-game
 
 Twoim zadaniem jest zaimplementowanie metody `changeType` dla obiektu `Player` w pliku `game_final.js`.
 W okolicach 333 linijki znajdziesz poniższy fragment.
