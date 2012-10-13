@@ -2,12 +2,11 @@ Instrukcja
 ===============
 
 Cześć!  
-Przed przystąpieniem do zadania pobierz pliki źródłowe na dysk https://github.com/szemek/amusing-javascript/zipball/master  
+Kod, który tutaj się znajduje jest drobną modyfikacją: https://github.com/kaaes/simple-dom-game  
+Pobierz pliki źródłowe na dysk https://github.com/szemek/amusing-javascript/zipball/master  
 Rozpakuj archiwum zip i otwórz plik `game_final.js` w swoim ulubionym edytorze, a plik `index.html` otwórz w przeglądarce.
 
-
 Przed Tobą małe wyzwanie!  
-Jest ono drobną modyfikacją kodu, który znajduje się tu: https://github.com/kaaes/simple-dom-game
 
 Twoim zadaniem jest zaimplementowanie metody `changeType` dla obiektu `Player` w pliku `game_final.js`.
 W okolicach 333 linijki znajdziesz poniższy fragment.
