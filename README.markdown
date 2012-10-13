@@ -31,5 +31,5 @@ Wskazówki:
 Proponowany sposób rozwiązania:  
   1.  Przypisz do zmiennej listę wszystkich graczy.
   2.  W pętli przejdź po wszystkich graczach z listy i znajdź aktualnego (` == this`)
-  3.  W HTML-u strony zaktualizuj typ aktualnego gracza, który znajduje się w tagu `li` w atrybucie `class`. Obiekt gracza pod odpowiednim indeksem w tablicy `game.players` odpowiada elementowi `li` w HTML-u strony. `querySelectorAll` i odpowiedni indeks mogą przydać się w realizacji tego punktu.
+  3.  W HTML-u strony zaktualizuj typ aktualnego gracza, który znajduje się w tagu `li` w atrybucie `class`. Kolejność obiektów graczy w tablicy `game.players` i elementów `li` w HTML-u w liście `<ul id="players">...</ul>` jest taka sama.  `querySelectorAll` i indeksy tablic mogą przydać się w realizacji tego punktu.
   4.  Zaktualizuj także pole `type` dla aktualnego obiektu.
